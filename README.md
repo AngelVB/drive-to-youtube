@@ -4,8 +4,6 @@ A browser-based tool to transfer videos from Google Drive to YouTube — useful 
 
 Built with React + Vite. No backend required. All OAuth tokens are stored locally in the browser.
 
-![screenshot placeholder](https://placehold.co/720x400/0a0a0a/333333?text=Drive+→+YouTube)
-
 ## Features
 
 - **Dual-account OAuth** — connect Drive and YouTube with different Google accounts
